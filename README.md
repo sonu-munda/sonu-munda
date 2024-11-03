@@ -21,7 +21,7 @@ I'm focused on expanding my skills in **Generative AI (GenAI)** to build applica
 Feel free to reach out for collaboration or if you just want to chat about tech and development. 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sonu-munda)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonu-munda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-munda)
 
 ---
 Thanks for stopping by! 😄
